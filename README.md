@@ -1,2 +1,1 @@
-# POO-
-holaaaaa
+este repositorio tiene programación orientada a objetos
